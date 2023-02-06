@@ -2,24 +2,26 @@
 
 <i>Bacharel em Sistemas de Informação</i>
 
-
 <hr />
 
  <div>
-    <img align="right" src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png">
+     <img align="left" src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png">
  </div>
 
 <div>
 
-  <div align="left">
+  <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSilvaTI&layout=compact&theme=tokyonight">
   </div>
-  <div align="left">
+ 
+  <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=VitorSilvaTI&show_icons=true&theme=tokyonight">
   </div>
-  <div align="center">
-    <img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/output/github-contribution-grid-snake.svg">
-</div>
+ 
+ <div align="center">
+     <img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/output/github-contribution-grid-snake.svg">
+ </div>
+
 </div>
 
 <br>
