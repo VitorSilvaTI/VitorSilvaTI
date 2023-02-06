@@ -11,11 +11,11 @@
 <div>
 
   <div align="right">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSilvaTI&layout=compact&theme=tokyonight">
+    <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSilvaTI&layout=compact&theme=tokyonight">
   </div>
  
   <div align="right">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=VitorSilvaTI&show_icons=true&theme=tokyonight">
+    <img width="380px" src="https://github-readme-stats.vercel.app/api?username=VitorSilvaTI&show_icons=true&theme=tokyonight">
   </div>
   
  <div align="center">
