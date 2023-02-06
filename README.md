@@ -3,14 +3,12 @@
 <i>Bacharel em Sistemas de Informação</i>
 
 
-
 <hr />
 
 <div>
-  <img align="left" src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png">
-</div>
-
-<div>
+  <div>
+    <img align="left" src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png">
+  </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSilvaTI&layout=compact&theme=tokyonight">
   </div>
